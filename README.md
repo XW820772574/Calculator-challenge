@@ -54,6 +54,4 @@ npm run dev
 3. 同时支持RESTful API和Connect协议API
 4. 前端响应式设计
 5. 完善的错误处理 
-=======
-# Calculator-challenge
->>>>>>> 10b5e1e7c004656b871e05b16c67ff16ca7d71f9
+
