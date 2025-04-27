@@ -1,0 +1,35 @@
+# Go相关
+/backend/vendor/
+/backend/*.exe
+/backend/*.exe~
+/backend/*.dll
+/backend/*.so
+/backend/*.dylib
+/backend/*.test
+/backend/*.out
+/backend/*.prof
+/backend/bin/
+/backend/temp/
+
+# Node.js相关
+/frontend/node_modules/
+/frontend/.next/
+/frontend/.swc/
+/frontend/.vercel
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/.pnpm-debug.log*
+/frontend/.env*.local
+
+# 操作系统相关
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo 
